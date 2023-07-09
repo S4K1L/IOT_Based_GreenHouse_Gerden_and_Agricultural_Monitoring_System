@@ -1,0 +1,11 @@
+Relay Connection :
+
+positive - Battery +
+Negative - LDR
+LDR - Battery -
+14000 Diod positive - Relay positive
+1400 diod negative - Relay Negative
+NodeMCU D1 pin  - Normally Close
+NodeMCU GND - Relay Common pin
+Vc 547 Transistor
+10k registant

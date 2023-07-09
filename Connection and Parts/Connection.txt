@@ -1,0 +1,11 @@
+// Blynk IOT Smart Green House Monitoring System
+
+/* Connections
+Relay. D3
+Btn.   D7
+Soil.  A0
+PIR.   D5
+SDA.   D2
+SCL.   D1
+Temp.  D4
+*/

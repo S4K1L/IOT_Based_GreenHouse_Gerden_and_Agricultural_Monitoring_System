@@ -1,0 +1,6 @@
+Temperature - V0
+Humidity - V1
+SoilMoisture -V3
+WaterPump - V12
+LDR - V6
+Motion - V5

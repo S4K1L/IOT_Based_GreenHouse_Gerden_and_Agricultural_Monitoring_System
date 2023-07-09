@@ -1,0 +1,8 @@
+Parts Name : 
+1. NodeMcu 8266
+2. Laser Light diot
+3. LDR
+4. 10k ohm Registor
+5. Lights
+6. Buzzer
+7. Vc 547 Transistor

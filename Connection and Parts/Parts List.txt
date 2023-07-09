@@ -1,0 +1,15 @@
+Project Parts:- 01
+
+1. Nodemcu ESP8266
+2. I2C Display
+3. Soil Moisture Sensor
+4. PIR Motion sensor
+5. Relay Module
+6. Water Pump
+7. DHT 11
+8. Cooling Fan
+9. MQ-2 Flammable Gas & Smoke Sensor
+10. Tactical Push Button
+11. Breadboard
+12. 18650 Battery
+13. Jumper Wire
